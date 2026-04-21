@@ -1,0 +1,6 @@
+Application of AI and ML techniques for intelligent and adaptive NPC behaviour in games.
+
+LINKS
+- https://www.researchgate.net/publication/395811549_Enhancing_Non-Player_Characters_NPC_Behaviour_in_Video_Games_Using_Reinforcement_Learning
+- https://dl.acm.org/doi/10.1145/3749012.3749054
+- 
